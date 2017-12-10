@@ -1,0 +1,11 @@
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.csprojResolveAssemblyReference.cache
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.csproj.CoreCompileInputs.cache
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.AssemblyInfoInputs.cache
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.AssemblyInfo.cs
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\Decision Structures.deps.json
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\Decision Structures.runtimeconfig.json
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\Decision Structures.runtimeconfig.dev.json
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\Decision Structures.dll
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\netcoreapp2.0\Decision Structures.pdb
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.dll
+C:\Users\maggi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\netcoreapp2.0\Decision Structures.pdb
