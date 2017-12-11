@@ -6,7 +6,8 @@ namespace Decision.Structures
     {
         static void Main(string[] args)
         {
-            SimpleIF();
+            //SimpleIF();
+            ComplexIF();
         }
 
         static void SimpleIF()
@@ -36,7 +37,7 @@ namespace Decision.Structures
             Console.WriteLine("Enter a character:");
             char yourChar = (char)Console.Read();
 
-            if (char.IsLetter(yourChar) || char.IsLetter(yourChar))
+            if (char.IsLetter(yourChar) || char.IsNumber(yourChar))
             {
                 if (char.IsUpper(yourChar))
                 {
@@ -46,7 +47,7 @@ namespace Decision.Structures
                 {
                     Console.WriteLine("Your char is lowercase.");
                 }
-                else if (char.IsDigit(yourChar))
+                else if (char.IsNumber(yourChar))
                     Console.WriteLine("Your char is a number.");
             }
             else
